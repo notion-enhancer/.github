@@ -1,0 +1,73 @@
+[
+  {
+    "name": "awaiting release",
+    "description": "This has already been dealt with but is not yet available",
+    "color": "d4c5f9"
+  },
+  {
+    "name": "bug",
+
+    "description": "Something isn't working right",
+    "color": "d73a4a"
+  },
+  {
+    "name": "cannot reproduce",
+
+    "description": "This behaviour cannot be replicated",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "duplicate",
+
+    "description": "This issue or pull request already exists",
+    "color": "cfd3d7"
+  },
+  {
+    "name": "enhancement",
+
+    "description": "New feature or request",
+    "color": "a2eeef"
+  },
+  {
+    "name": "external bug",
+
+    "description": "A bug in a dependency or in Notion itself",
+    "color": "c5def5"
+  },
+  {
+    "name": "good first issue",
+
+    "description": "Good for newcomers",
+    "color": "7057ff"
+  },
+  {
+    "name": "help wanted",
+
+    "description": "What's going on here? Assistance would be appreciated",
+    "color": "008672"
+  },
+  {
+    "name": "invalid",
+
+    "description": "This doesn't seem right or is a user failure rather than a bug",
+    "color": "e4e669"
+  },
+  {
+    "name": "next",
+
+    "description": "Out of scope for the current release, to be re-reviewed later",
+    "color": "1E6C48"
+  },
+  {
+    "name": "needs more information",
+
+    "description": "Won't be worked on until further information is provided",
+    "color": "d876e3"
+  },
+  {
+    "name": "wontfix",
+
+    "description": "This will not be worked on",
+    "color": "ffffff"
+  }
+]
