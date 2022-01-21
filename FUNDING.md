@@ -1,1 +1,1 @@
-github: dragonwocky
+github: [dragonwocky]
